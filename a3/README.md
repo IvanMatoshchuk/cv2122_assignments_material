@@ -1,0 +1,1 @@
+# Dense Optical Flow. Harris Corner Detection. Lukas-Kanade. Cascade classifier, Viola-Jones
